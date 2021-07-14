@@ -22,7 +22,6 @@ export class DonaComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    //console.log(this.data);
     this.doughnutChartLabels = this.labels;
     this.doughnutChartData = [ this.data ]
     console.log(this.doughnutChartData)
