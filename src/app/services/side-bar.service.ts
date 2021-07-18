@@ -23,7 +23,11 @@ export class SideBarService {
          {
            titulo: "Grafica",
            url: "grafica1"
-         }
+         },
+         {
+          titulo: "Observables",
+          url: "observables"
+        }
        ]
      }];
    }
